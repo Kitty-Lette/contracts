@@ -1,0 +1,9 @@
+{
+  "name": "Kitty Lette Rare Cat",
+  "description": "Rare cat from the Kitty Lette Roulette.",
+  "image": "http://ipfs.io/ipfs/bafybeidgnw66633dn62oc2kxzj5fcqhn77hsmqovy4rgy7luzxw6p6mzne",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Generation", "value": "Genesis" }
+  ]
+}

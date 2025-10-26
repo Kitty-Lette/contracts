@@ -1,0 +1,9 @@
+{
+  "name": "Kitty Lette Common Cat",
+  "description": "Common cat from the Kitty Lette Roulette.",
+  "image": "http://ipfs.io/ipfs/bafybeiehuiin6abks2pt6xc5mttgv66npfs5krnjsclcdnqyvzmqzyb7me",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Generation", "value": "Genesis" }
+  ]
+}

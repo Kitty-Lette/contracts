@@ -1,0 +1,9 @@
+{
+  "name": "Kitty Lette Mythic Cat",
+  "description": "Mythic cat from the Kitty Lette Roulette.",
+  "image": "http://ipfs.io/ipfs/bafybeic7pkmbpsrujpi3dczxda32g4dynr527ufmba6fi43godftvvrbia",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Mythic" },
+    { "trait_type": "Generation", "value": "Genesis" }
+  ]
+}

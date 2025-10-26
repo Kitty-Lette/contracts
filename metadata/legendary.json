@@ -1,0 +1,9 @@
+{
+  "name": "Kitty Lette Legendary Cat",
+  "description": "Legendary cat from the Kitty Lette Roulette.",
+  "image": "http://ipfs.io/ipfs/bafybeicahvbssd4hecj2gzbishu6gpi3iym7tmgqpldbauuger73nsguxe",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Generation", "value": "Genesis" }
+  ]
+}
